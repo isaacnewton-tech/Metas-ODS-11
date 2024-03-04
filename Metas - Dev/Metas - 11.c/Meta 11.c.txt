@@ -1,0 +1,8 @@
+Meta 11.c (ONU) 
+"Apoiar os países menos desenvolvidos, inclusive por meio de assistência técnica e financeira, para construções sustentáveis e resilientes, utilizando materiais locais."
+
+Meta 11.c (Brasil)
+"Apoiar os países menos desenvolvidos, inclusive por meio de assistência técnica e financeira, para construções sustentáveis e robustas, priorizando recursos locais."
+
+	Indicador global 11.c.1: "Proporção do apoio financeiro aos países menos desenvolvidos destinado à construção e modernização de edifícios sustentáveis, resistentes e eficientes em termos de recursos, utilizando materiais locais". Obs: para a ONU, esse indicador é classificado, assim como o 11.4.1 e 11.a.1, como Tier III, o que significa que não existem fontes de dados ou metodologia estabelecida para sua mensuração.
+	Existe uma proposta de indicador nacional, que complementaria este: "Número de projetos de construção e modernização de edifícios sustentáveis em países em desenvolvimento que receberam assistência técnica ou financeira do governo federal brasileiro. Este indicador ainda não está disponível"

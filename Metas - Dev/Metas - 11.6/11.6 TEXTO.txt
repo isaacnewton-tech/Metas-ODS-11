@@ -1,0 +1,24 @@
+METAS - 11.6
+
+META 11.6 (ONU)
+"Até 2030, reduzir o impacto ambiental negativo per capita das cidades, inclusive prestando especial atenção à qualidade do ar, gestão de resíduos
+municipais e outros."
+
+META 11.6 (Brasil)
+"Até 2030, reduzir o impacto ambiental negativo per capita das cidades, melhorando os índices de qualidade do ar e a gestão de resíduos sólidos; e garantir que todas as cidades com acima de 500 mil habitantes tenham implementado sistemas de monitoramento de qualidade do ar e planos de gerenciamento de resíduos sólidos."
+
+A meta 11.6 trata de duas questões ambientais nas cidades: a qualidade do ar e a gestão de resíduos sólidos urbanos (RSUs). A questão de gestão dos RSUs recebe mais atenção, uma vez que os dois indicadores nacionais da meta 11.6 (11.6.1 e 11.6.2) tratam sobre o tópico.
+
+(TABELA 6)
+
+	Segundo a Associação Brasileira de Empresas de Limpeza Pública e Resíduos Especiais (Abrelpe), em 2017 foram geradas 214.868 toneladas de RSUs diárias no país, como é possível analisar na tabela. Apenas 91% desse resíduo foi coletado e apenas 75% foi destinado a aterros sanitários ou aterro controlados.
+	Já o indicador nacional BR 11.6.2 serve como um "complemento" do indicador global. Esse indicador brasileiro aponta o percentural de municípios com planos municipais de gestão integrada de resíduso sólidos.
+
+(GRÁFICO 18)
+
+	Como podemos ver no gráfico, apenas 55% dos municípios possuíam plano de gestão integrada de resíduos sólidos. Se pegarmos o exemplo de Piauí e Bahia, veremos que menos de um terço dos municípios tinha algum plano.
+	Sobre a qualidade do ar (que é um dos tópicos da meta 11.6), temos o indicador global 11.6.2, que trata sobre o "nível médio anual de partículas inaláveis (ex: com diâmetro inferior a 2,5 µm/m3 e 10 µm/m3) nas cidades (população ponderada)". Apenas 15 cidades brasileiras (sendo todas do Rio de Janeiro ou São Paulo) dispõe de informações sobre a qualidade do ar, segundo a base de dados da OMS.
+
+(TABELA 7)
+
+	É necessário expandir o sistema de monitoramento do ar e a criação de um outro indicador mais específico para possibilitar a registrar o avanço de ações nesse sentido.
